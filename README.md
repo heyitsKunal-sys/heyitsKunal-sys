@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-<h1 align="center">Hey 👋, I'm Kunal</h1>
+<h1 align="center"> I'm Kunal</h1>
 <h3 align="center">Frontend Developer | AI/ML Enthusiast 🤖</h3>
 
 
