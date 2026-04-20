@@ -4,11 +4,7 @@
 <h1 align="center">Hey 👋, I'm Kunal</h1>
 <h3 align="center">Frontend Developer | AI/ML Enthusiast 🤖</h3>
 
----
-<h1 align="center">Hey 👋, I'm Kunal</h1>
-<h3 align="center">Frontend Developer | AI/ML Enthusiast 🤖</h3>
 
----
 
 ### 🛠️ Tech Stack
 
@@ -47,7 +43,9 @@
   <img src="https://img.shields.io/badge/DSA-ff6f00?style=for-the-badge"/>
 </p>
 
----
+### ⚡ Fun Fact
+
+💡 I turn ideas into real-world projects 🚀
 
 ### 📫 Connect with Me
 
@@ -57,11 +55,6 @@
   </a>
 </p>
 
----
-
-### ⚡ Fun Fact
-
-💡 I turn ideas into real-world projects 🚀
 
 ### 🚀 About Me
 
@@ -74,14 +67,7 @@
 
 
 
-### 🌐 Connect With Me
 
-<p align="center">
-
-  <a href="mailto:YOUR_EMAIL">bhardwajkunal0111@gmail.com</a>
-</p>
-
----
 
 ### ⚡ Fun Fact
 
