@@ -11,7 +11,8 @@
 #### 🚀 Frontend
 
 <p>
-  <img src = "<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/6b145465-406a-4d8e-b556-fe74bb12d6a7" />
+  <img src ="https://www.google.com/imgres?q=html%20icon&imgurl=https%3A%2F%2Ficones.pro%2Fwp-content%2Fuploads%2F2021%2F05%2Ficone-html-orange.png&imgrefurl=https%3A%2F%2Ficones.pro%2Fen%2Forange-html-icon-png-logo-symbol%2F&docid=5KYM0syyXWx4qM&tbnid=WpGrMn7p_VVzHM&vet=12ahUKEwj99ZCeveCUAxX8d2wGHSaGIu4QnPAOegQIExAB..i&w=512&h=512&hcb=2&ved=2ahUKEwj99ZCeveCUAxX8d2wGHSaGIu4QnPAOegQIExAB" />
+  
 
 #### 💻 Languages
 
