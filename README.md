@@ -28,6 +28,10 @@ src="https://img.shields.io/twitter/follow/KunU249668?logo=twitter&style=for-the
 
 <a href="http://www.github.com/heyitskunal-sys"><img src="https://github-readme-streak-stats.herokuapp.com/?user=heyitskunal-sys&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=heyitsKunal-sys&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 🎮 Pac-Man Contribution Graph
 
 ![Pac-Man](https://raw.githubusercontent.com/heyitsKunal-sys/heyitsKunal-sys/output/pacman-contribution-graph.svg)
