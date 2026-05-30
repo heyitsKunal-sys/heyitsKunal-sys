@@ -11,7 +11,8 @@
 #### 🚀 Frontend
 
 <p>
-  <img src = "html.png"/>
+  <img src = "<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/6b145465-406a-4d8e-b556-fe74bb12d6a7" />
+
 #### 💻 Languages
 
 <p>
