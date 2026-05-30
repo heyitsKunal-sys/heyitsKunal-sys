@@ -11,10 +11,7 @@
 #### 🚀 Frontend
 
 <p>
-  <img src="<a href="https://iconscout.com/3d-icons/html" class="text-underline font-size-sm" target="_blank">Html</a> by <a href="https://iconscout.com/contributors/iconscout" class="text-underline font-size-sm" target="_blank">IconScout Store</a>"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</p>
-
+  <img src = "html.png"/>
 #### 💻 Languages
 
 <p>
