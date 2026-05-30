@@ -34,7 +34,7 @@ src="https://img.shields.io/twitter/follow/KunU249668?logo=twitter&style=for-the
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
 </picture>
 
-_Generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
+
 
 
 
