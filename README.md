@@ -26,7 +26,7 @@ src="https://img.shields.io/twitter/follow/KunU249668?logo=twitter&style=for-the
 
 <b>My GitHub-Stats</b>
 
-<a href="http://www.github.com/heyitskunal-sys"><img src="https://streak-stats.demolab.com/?user=heyitskunal-sys&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> 
+<a href="http://www.github.com/heyitskunal-sys"><img src="https://streak-stats.demolab.com/?user=heyitskunal-sys&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
 
