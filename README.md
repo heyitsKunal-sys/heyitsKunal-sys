@@ -66,7 +66,7 @@
 ### 🤖 AI, Machine Learning & Agentic AI
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
+  
   <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Agentic_AI-00A67E?style=for-the-badge&logo=robot&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
