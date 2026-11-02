@@ -76,6 +76,11 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2500&pause=700&color=00FF9C&background=0D1117&center=true&vCenter=true&width=700&height=40&lines=root%40the-internet%3A~%23+sudo+make+life-better;root%40the-internet%3A~%23+git+commit+-m+%22still+figuring+it+out%22;root%40the-internet%3A~%23+while%28alive%29%7B+learn%28%29%3B+build%28%29%3B+repeat%28%29%3B+%7D;root%40the-internet%3A~%23+echo+%22It+works+on+my+machine.%22" />
+</p>
+
+---
 
 
 ## 📊 GitHub Statistics
