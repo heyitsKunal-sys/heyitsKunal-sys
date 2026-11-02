@@ -77,23 +77,6 @@
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/heyitskunal-sys" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kunal-bhardwaj011" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.x.com/KunU249668" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/000000" width="45" alt="X"/>
-  </a>
-</p>
-
----
 
 ## 📊 GitHub Statistics
 
