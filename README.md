@@ -98,7 +98,9 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <a href="http://www.github.com/heyitskunal-sys"><img src="https://streak-stats.demolab.com/?user=heyitskunal-sys&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <a href="https://github.com/heyitskunal-sys">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=heyitskunal-sys&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+  </a>
 </p>
 
 ---
