@@ -1,11 +1,11 @@
 # 👋 Hey, I'm Kunal Bhardwaj
 
 <h3 align="center">
-  🚀 Full Stack Developer | AI/ML Explorer | Problem Solver
+  🚀 Full Stack Developer | AI/ML | Problem Solver
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;C%2B%2B+%26+Python+Programmer;Exploring+Generative+AI+%26+LLMs;Building+Scalable+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;C%2B%2B+%26+Python+Programmer;Generative+AI+%26+LLMs;Building+Scalable+Web+Applications" alt="Typing SVG" />
 </p>
 
 <p align="center">
