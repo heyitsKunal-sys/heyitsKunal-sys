@@ -1,43 +1,122 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Kunal
-==============================================================================================================================
+# 👋 Hey, I'm Kunal Bhardwaj
 
-Full Stack Developer
---------------------
+<h3 align="center">
+  🚀 Full Stack Developer | AI/ML Explorer | Problem Solver
+</h3>
 
-🚀 Full-Stack MERN Developer | C++ & Python Programmer | DSA Enthusiast | Exploring AI, GenAI & DevOps
-
-* 🌍  I'm based in India
-* ✉️  You can contact me at [bhardwajkunal0111@gmail.com](mailto:bhardwajkunal0111@gmail.com)
-* 🧠  I'm currently learning Machine Learning & Deep Learning |Generative AI (LLMs, RAG, AI Agents) | DevOps (Docker, CI/CD,Kubernetes)
-* 👥  I'm looking to collaborate on Intresting Projects
-* 💬  Ask me about Can spend hours debugging a bug that was caused by a missing semicolon 😄
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;C%2B%2B+%26+Python+Programmer;Exploring+Generative+AI+%26+LLMs;Building+Scalable+Web+Applications" alt="Typing SVG" />
 </p>
 
-### Socials
+<p align="center">
+  <a href="https://github.com/heyitskunal-sys">
+    <img src="https://img.shields.io/badge/GitHub-heyitskunal--sys-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/kunal-bhardwaj011">
+    <img src="https://img.shields.io/badge/LinkedIn-Kunal_Bhardwaj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.x.com/KunU249668">
+    <img src="https://img.shields.io/badge/X-@KunU249668-000000?style=for-the-badge&logo=x" />
+  </a>
+  <a href="mailto:bhardwajkunal0111@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-0891B2?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://www.github.com/heyitskunal-sys" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/KunU249668" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a></p>
-<a href="https://www.x.com/KunU249668" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/KunU249668?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+---
 
+## 🧑‍💻 About Me
 
-<b>My GitHub-Stats</b>
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<a href="http://www.github.com/heyitskunal-sys"><img src="https://streak-stats.demolab.com/?user=heyitskunal-sys&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+- 🌍 Based in India
+- 💻 Full-Stack MERN Developer
+- 🧠 Exploring Machine Learning, Deep Learning & Generative AI
+- 🤖 Learning LLMs, RAG, and AI Agents
+- ⚙️ Exploring DevOps: Docker, CI/CD & Kubernetes
+- 🧩 C++ & Python Programmer | DSA Enthusiast
+- 🤝 Open to collaborating on interesting projects
+- 💬 Ask me about Web Development, Programming, and Debugging
+- ⚡ Fun fact: I can spend hours debugging a bug caused by a missing semicolon 😄
 
+<br clear="right"/>
 
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js" />
+</p>
+
+### 🌐 Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+### ⚙️ Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+### 🗄️ Database & Infrastructure
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,linux,docker,kubernetes,aws" />
+</p>
+
+### 🔧 Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,github,postman" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/heyitskunal-sys" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kunal-bhardwaj011" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.x.com/KunU249668" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/000000" width="45" alt="X"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <a href="http://www.github.com/heyitskunal-sys">
+    <img src="https://streak-stats.demolab.com/?user=heyitskunal-sys&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak Stats" />
+  </a>
+</p>
+
+---
 
 ## 🎮 Pac-Man Contribution Graph
 
-![Pac-Man](https://raw.githubusercontent.com/heyitsKunal-sys/heyitsKunal-sys/output/pacman-contribution-graph.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/heyitsKunal-sys/heyitsKunal-sys/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph" width="100%" />
+</p>
 
+---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,100:22C55E&height=100&section=footer" />
+</p>
 
-
-
-
-
-
+<p align="center">
+  <b>✨ Thanks for visiting my profile! Let's build something amazing together. ✨</b>
+</p>
