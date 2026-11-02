@@ -36,7 +36,7 @@
 - ⚙️ DevOps: Docker, CI/CD & Kubernetes
 - 🧩 C++ & Python Programmer | DSA Enthusiast
 - 🤝 Open to collaborating on interesting projects
-- 💬 Ask me about Web Development, Programming, and Debugging
+- 💬 Ask me about Full Stack Development, Programming, and Debugging
 - ⚡ Fun fact: I can spend hours debugging a bug caused by a missing semicolon 😄
 
 <br clear="right"/>
