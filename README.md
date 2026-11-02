@@ -31,9 +31,9 @@
 
 - 🌍 Based in India
 - 💻 Full-Stack MERN Developer
-- 🧠 Exploring Machine Learning, Deep Learning & Generative AI
-- 🤖 Learning LLMs, RAG, and AI Agents
-- ⚙️ Exploring DevOps: Docker, CI/CD & Kubernetes
+- 🧠 Machine Learning, Deep Learning & Generative AI
+- 🤖 LLMs, RAG, and AI Agents
+- ⚙️ DevOps: Docker, CI/CD & Kubernetes
 - 🧩 C++ & Python Programmer | DSA Enthusiast
 - 🤝 Open to collaborating on interesting projects
 - 💬 Ask me about Web Development, Programming, and Debugging
